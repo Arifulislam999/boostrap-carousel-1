@@ -1,0 +1,47 @@
+/* .carousel-item {
+    background-color: black;
+    height: 32rem;
+    position: relative;
+}
+
+.container {
+    position: absolute;
+    text-align: center;
+    bottom: 20px;
+    color: white;
+}
+
+.overlay-image {
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0.5;
+} */
+
+.carousel-item {
+    background-color: black;
+    height: 32rem;
+    color: green;
+    position: relative;
+}
+
+.container {
+    position: absolute;
+    bottom: 50px;
+    left: 20px;
+}
+
+.overlay-image {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    background-size: cover;
+    background-position: center;
+    opacity: 0.5;
+}
